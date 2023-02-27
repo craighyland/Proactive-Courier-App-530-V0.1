@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Four Button Links</title>
+</head>
+<body>
+	<h1>Click on a button to go to a website:</h1>
+	<button onclick="location.href='https://www.google.com'">Google</button>
+	<button onclick="location.href='https://www.youtube.com'">YouTube</button>
+	<button onclick="location.href='https://www.facebook.com'">Facebook</button>
+	<button onclick="location.href='https://www.github.com'">GitHub</button>
+</body>
+</html>
